@@ -14,12 +14,7 @@
     {
         "device_id": "79a606d8c20499aa",
         "key": "Admin",
-        "expirydate": "30-09-2026",
+        "expirydate": "30-09-2025",
         "Allowoffline": false
-    },
-    device_id": "79a606d8c20499aa",
-        "key": "sardar",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
-    
+    }
 ]
