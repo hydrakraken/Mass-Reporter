@@ -22,5 +22,11 @@
         "key": "YTBRO",
         "expirydate": "20-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c487acd9fb6562d6",
+        "key": "paravi08",
+        "expirydate": "20-10-2025",
+        "Allowoffline": true
     }
 ]
