@@ -28,5 +28,11 @@
         "key": "nsss",
         "expirydate": "20-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "87fcdebe24543caf",
+        "key": "Admin",
+        "expirydate": "30-10-2026",
+        "Allowoffline": true
     }
 ]
