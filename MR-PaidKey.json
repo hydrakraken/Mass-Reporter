@@ -34,5 +34,11 @@
         "key": "Admin",
         "expirydate": "30-10-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9e8998bc8b6f2c22",
+        "key": "Admin2025",
+        "expirydate": "16-12-2025",
+        "Allowoffline": true
     }
 ]
